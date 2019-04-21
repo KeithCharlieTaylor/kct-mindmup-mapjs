@@ -8,3 +8,4 @@
 
 Check out [src/start.js](src/start.js) to see how the page is wired up and initialised.
 
+KCT: Currently working on Netlify config
